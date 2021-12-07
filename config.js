@@ -1,20 +1,17 @@
 const CONFIG = {
     titleWeb: "alo alo",
-    introTitle: 'ieng@@',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'chào bạn',
+    introDesc: `bạn có bị điên k^^`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'chào mừng bạn đến với khảo sát tâm thần trung ương quốc gia^^',
+    desc: 'phải chăng bạn mắc chứng tâm thần nặng?? ',
+    btnYes: 'đúng ời',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'yêu nhà🤭',
+    question: 'có thật bạn bị tâm thần mức độ nặng không???',
+    btnReply: 'Gửi đi',
+    reply: 'đúng vậy tui bị tâm thần nặng=((',
+    mess: 'chào mừng bạn đến với trại',
+    messDesc: 'hihi^^',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
