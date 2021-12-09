@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "alo alo nghe khum~~",
-    introTitle: 'Nguyễn Thúy Uyên@@',
+    introTitle: 'bạn đó, nhìn j=-=',
     introDesc: `Em từ đâu đến? Ai sai em đến đây? Để lấy cắp trái tim anh vậy…?`,
     btnIntro: '^^HiHi^^',
     title: 'làm ngiu t nha@@',
